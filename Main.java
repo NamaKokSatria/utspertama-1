@@ -6,7 +6,9 @@ class Main {
             Mhs mhs = new Mhs("Ini_Username", "Ini_Password", "Nama Kok Satria", "G.111.19.0009", 8);
     
             // mhs.setNama("Nama Kok Satria");
+
             // mhs.setNim("G.111.19.0009");
+            
             // mhs.setSmt(8);
     
             System.out.println("Nama Mhs : " + mhs.getNama());

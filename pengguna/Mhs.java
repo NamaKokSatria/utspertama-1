@@ -1,6 +1,7 @@
 package pengguna;
 
 public class Mhs extends User {
+    
     public class Mhs extends User {
         private String nama;
         private String nim;
